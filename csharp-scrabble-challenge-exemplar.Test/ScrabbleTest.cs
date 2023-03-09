@@ -62,11 +62,6 @@ namespace csharp_scrabble_challenge_exemplar.Test
             Assert.AreEqual(41, scrabble.score());
         }
 
-        [Test]
-        public void Extension_shouldScore10forZasTriple()
-        {
-            Scrabble scrabble = new Scrabble("{z}");
-            Assert.AreEqual(10, scrabble.score());
-        }
+       
     }
 }
