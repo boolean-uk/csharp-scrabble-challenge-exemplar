@@ -32,6 +32,7 @@ namespace csharp_scrabble_challenge_exemplar.Main
         {
             int total = 0;
             
+            //Double Word Score
             if((_word.Contains('{'))&&(_word.Contains('}')))
             {
                 return 0;
