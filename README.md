@@ -7,6 +7,7 @@ Welcome to the Scrabble challenge!
 - Use `git` & GitHub to commit work and open a Pull Request
 
 
+
 Given a word, compute the scrabble score for that word.
 
 ##### Letter Values
